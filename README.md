@@ -1,3 +1,10 @@
+# MasterMind4-hashcode2022
+#TEAM
+1. **MEMBER 1:- https://www.linkedin.com/in/tanmay-bhale-5361b8228/ **
+2. **MEMBER 2:- https://www.linkedin.com/in/harshal-bodhe-41b80420b/ **
+3. **MEMBER 3:- https://www.linkedin.com/in/ayush-kumar-namdeo-3aa198194/ **
+4. **MEMBER 4:- **
+
 # Problem
 
 You are opening a small pizzeria. In fact, your pizzeria is **so** small that you decided to offer only **one type of pizza**. Now you need to decide what ingredients to include (peppers? tomatoes? both?).
